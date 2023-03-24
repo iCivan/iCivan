@@ -6,6 +6,6 @@
  <br>   ⤷ I like Vue, Astro, Tailwind and Laravel!
 
 ## Setup!
-💻 I use PHPstorm and Visual Studio Code (Theme Houston)<br>
-    ⤷ I'm on team Mac for coding.<br>
+💻 I use PHPstorm and Visual Studio Code (Theme Houston) + Github Copilot<br>
+    ⤷ Using a Macbook 14" M2 Pro at the moment.<br>
 🎨 I use Adobe XD and Photoshop for my designs.
