@@ -3,7 +3,7 @@
 🧳 I'm working as a Frontend Engineer at RawWorks.<br>
 🏁 I'm the co-founder of Cileon.<br>
 👨‍💻 I am currently coding in TypeScript, JavaScript, CSS and PHP.
- <br>   ⤷ I like Vue, Astro, Tailwind and Laravel!
+    ⤷ I like Vue, Astro, Nuxt, Tailwind and Laravel & Symfony!
 
 ## Setup!
 💻 I use PHPstorm and Visual Studio Code (Theme Houston) + Github Copilot<br>
