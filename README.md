@@ -2,7 +2,7 @@
 👋🏽 Hi, I'm Civan from the Netherlands! <br>
 🧳 I'm working as a Frontend Engineer at RawWorks.<br>
 🏁 I'm the co-founder of Cileon.<br>
-👨‍💻 I am currently coding in TypeScript, JavaScript, CSS and PHP.
+👨‍💻 I am currently coding in TypeScript, JavaScript, CSS and PHP. <br>
     ⤷ I like Vue, Astro, Nuxt, Tailwind and Laravel & Symfony!
 
 ## Setup!
