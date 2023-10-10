@@ -8,4 +8,4 @@
 ## Setup!
 💻 I use Visual Studio Code (Theme Houston) + Github Copilot<br>
     ⤷ Using a Macbook 14" M2 Pro at the moment.<br>
-🎨 I use Adobe XD and Photoshop for my designs.
+⌨️ + 🖱️ Logi MX Mechanical and Logi MX Master Mac.
